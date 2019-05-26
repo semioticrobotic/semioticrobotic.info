@@ -1,3 +1,5 @@
+Permalink: a-likelihood-better-than-chance
+
 # A likelihood better than chance
 
 "Information is the currency of life," Christoph Adami [recently told *Quanta*](https://www.quantamagazine.org/20151119-life-is-information-adami/). "One definition of information is the ability to make predictions with a likelihood better than chance."

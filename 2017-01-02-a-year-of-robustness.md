@@ -1,3 +1,5 @@
+Permalink: a-year-of-robustness
+
 # A year of robustness
 
 I'm beginning to think my New Year's resolution is simply going to be some reformulation or specification of [the robustness principle](https://en.wikipedia.org/wiki/Robustness_principle), Postel's Law, which in its original formulation, instructs us to:

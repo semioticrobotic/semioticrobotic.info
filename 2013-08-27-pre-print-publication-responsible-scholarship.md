@@ -1,3 +1,5 @@
+Permalink: pre-print-publication-responsible-scholarship
+
 # Pre-print publication and responsible scholarship
 
 I recently received notice that [New Media & Society](http://nms.sagepub.com/) has assigned my article on "player-centric" game studies to an issue of the journal. It'll be part of [Volume 15, Issue 6](http://nms.sagepub.com/content/15/6.toc).

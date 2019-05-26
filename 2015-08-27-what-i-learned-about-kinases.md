@@ -1,3 +1,5 @@
+Permalink: what-i-learned-about-kinases
+
 # What I've learned about kinases
 
 Recently an email about a new open source genetics research initiative appeared in my university inbox. Two scientists had seen me [riff on open science](http://opensource.com/life/15/7/what-open-science) and thought I might be interested in writing something about the effort.

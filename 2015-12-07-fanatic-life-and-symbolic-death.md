@@ -1,3 +1,5 @@
+Permalink: fanatic-life-and-symbolic-death
+
 # Fanatic life and symbolic death
 
 Today marks the 43rd anniversary of Stewart Brand's ["Spacewar: Fanatic Life and Symbolic Death Among the Computer Bums,"](http://www.wheels.org/spacewar/stone/rolling_stone.html) a piece that first appeared in [Rolling Stone issue 123](http://www.rollingstone.com/coverwall/1972).

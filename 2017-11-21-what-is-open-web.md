@@ -1,3 +1,5 @@
+Permalink: what-open-web
+
 # What is the open web?
 
 The Open Education Consortium has declared this ["The Year of Open"](https://www.yearofopen.org/) (sounds like a good theme for any year!). To celebrate, they're publishing long answers to straightforward questions on complex topics. I've contributed [my own response](https://www.yearofopen.org/november-open-perspective-what-is-open-web/what-is-the-open-web-bryan-behrenshausen-writer-and-editor-red-hat/) to "What is the Open Web?" and it's now available:

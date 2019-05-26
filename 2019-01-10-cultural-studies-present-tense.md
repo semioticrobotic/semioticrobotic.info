@@ -1,3 +1,5 @@
+Permalink: cultural-studies-present-tense
+
 # Cultural studies in the present tense
 
 Fewer figures have been as prolific and influential in the intellectual project of American cultural studies than my doctoral advisor Lawrence Grossberg. And I've been fortunate enough not only to learn from him but also to work and write alongside him for several years—a brief blip in his decades-spanning career (one that cuts across several generations of similarly fortunate students), but one I will forever treasure.

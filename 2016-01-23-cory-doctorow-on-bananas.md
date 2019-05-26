@@ -1,3 +1,5 @@
+Permalink: cory-doctorow-on-bananas
+
 # Cory Doctorow on bananas
 
 This week, I published an [interview with Cory Doctorow](https://opensource.com/life/16/1/cory-doctorow-predict-future-influence-it) as part of Opensource.com's ongoing coverage of the [14th annual Southern California Linux Expo](https://www.socallinuxexpo.org/scale/14x), where Cory [delivered a keynote](https://youtu.be/4gt-KI4J4Pg?t=1250). It's easily one of my favorite assignments from [the past five years](https://opensource.com/users/bbehrens).

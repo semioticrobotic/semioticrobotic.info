@@ -1,3 +1,5 @@
+Permalink: some-open-truisms
+
 # Some open truisms
 
 At Duke University this fall, I taught a course I named "Foundations of an Open Source World." That title is something of a misnomer given the themes I tried to stress during every class meeting. "Open" is a complex phenomenon—something with symbolic and material dimensions that have real effects on the way people live their lives—but even more important is the understanding that "open" is always shifting, fraught with tensions and contradictions that keep reshaping it. "Open," in other words, is always _on the move_, with no fixed or immutable essence, nothing "eternal" about it (though advocates of "correct" or "true" openness always attempt such "fixings" and short-term stabalizations for tactical purposes).

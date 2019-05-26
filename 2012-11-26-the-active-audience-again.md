@@ -1,3 +1,5 @@
+Permalink: the-active-audience-again
+
 # The active audience, again
 
 An article I recently wrote about theoretical and methodological trends in video game studies, "The active audience, again: Player-centric game studies and the problem of binarism," has been published in _New Media & Society_. Here's the abstract:

@@ -1,3 +1,5 @@
+Permalink: from-durgapur-with-love
+
 # From Durgapur with love
 
 Next week I'll speak at the [DGPLUG](https://dgplug.org/)'s open source [summer training](https://dgplug.org/summertraining/#/step-1) on an invitation from buddy [Kushal Das](https://twitter.com/kushaldas), the program's intrepid coordinator [for](https://opensource.com/life/13/6/learning-program-open-source-way) [years](https://opensource.com/life/14/6/enroll-now-free-online-open-source-programming-classes). I'm both thrilled and humbled to be part of an event with such a rich and storied history, but realized this weekend I've never actually done anything quite like this.

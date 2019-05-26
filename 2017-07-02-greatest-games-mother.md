@@ -1,3 +1,5 @@
+Permalink: greatest-games-mother
+
 # On Mother
 
 My [recent description of the _Mother_ video game franchise](https://rowman.com/ISBN/9781442278158/100-Greatest-Video-Game-Franchises) represents my most significant attempt (to date) at describing precisely why [I love the games so much](https://opensource.com/life/15/9/EarthBound-video-game). That shot at articulating the ineffable appears in the recently released _100 Greatest Video Game Franchises_ book from Rowan & Littlefield:

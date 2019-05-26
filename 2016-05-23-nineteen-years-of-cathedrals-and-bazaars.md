@@ -1,3 +1,5 @@
+Permalink: nineteen-years-of-cathedrals-and-bazaars
+
 # Nineteen years of cathedrals and bazaars
 
 Today Opensource.com [published my reflection](https://opensource.com/life/16/5/19-years-later-cathedral-and-bazaar-still-moves-us) on _The Cathedral and the Bazaar_, which I wrote in honor of the document's 19th anniversary:

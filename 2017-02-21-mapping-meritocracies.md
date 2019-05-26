@@ -1,3 +1,5 @@
+Permalink: mapping-meritocracies
+
 # Mapping meritocracies
 
 Of all the concepts that cluster loosely around this thing we call "openness," "meritocracy" has for me emerged as one of the most interesting.
