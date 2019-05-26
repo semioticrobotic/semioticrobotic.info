@@ -1,3 +1,5 @@
+Permalink: review-babbling-corpse
+
 # Review of Babbling Corpse
 
 _(Originally published in Private Suite magazine, [issue 5](https://privatesuitemag.com/issues/issue-5/))_
