@@ -2,9 +2,9 @@ Permalink: review-of-the-void
 
 # Review of The Void
 
-_(Originally published in Private Suite magazine, [issue 6](https://www.privatesuitemag.com/issues/issue-6))_
+_(Originally published in Private Suite magazine, [issue 6](https://privatesuitemag.com/issue/6/))_
 
-Book review: [_The Void_](https://www.amazon.com/Void-Isaiah-Laing/dp/172713320X), by Isaiah Laing
+Book review: [_The Void_](https://www.amazon.com/Void-Isaiah-Laing/dp/172713320X) by Isaiah Laing
 
 _The Void_ is the story you'd get when the kids from "Stranger Things" grow up, start dating, land jobs, and acquire prescription narcotics. Isaiah Laing's novel tracks nine principal characters (mostly 20-somethings) whose lives crisscross in all-too-convenient ways, each flung from a relatively undifferentiated middle-class existence by the insidious machinations of some imperceptible evil. Unfolding like a VHS supercut of "Buffy the Vampire Slayer," the book shifts perspectives in two- or three-page beats, whipping readers readers from encounters with the vaguely zombified and sickly tentacled to descriptions of botched hookups and stilted mealtime conversation with blinding speed (Laing positions the work "somewhere between a diary dump and a work of fiction," and it reads as such). It's long on premise but short on resolution—though that's a description of the art that vaporwave fans in particular might expect, even appreciate.
 

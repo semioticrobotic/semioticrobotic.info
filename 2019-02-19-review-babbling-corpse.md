@@ -2,9 +2,9 @@ Permalink: review-babbling-corpse
 
 # Review of Babbling Corpse
 
-_(Originally published in Private Suite magazine, [issue 5](https://privatesuitemag.com/issues/issue-5/))_
+_(Originally published in Private Suite magazine, [issue 5](https://privatesuitemag.com/issue/5/))_
 
-Book review: [_Babbling Corpse: Vaporwave and the Commodification of Ghosts_](http://www.zero-books.net/books/babbling-corpse), by Grafton Tanner
+Book review: [_Babbling Corpse: Vaporwave and the Commodification of Ghosts_](http://www.zero-books.net/books/babbling-corpse) by Grafton Tanner
 
 This isn't an especially pleasant moment to be living in the global West. It's fraught with trauma over rampant historical and geographic dislocation, obsession with humanity's imminent demise, anxiety about late capitalism's unfettered expansion, and a general suffusion of simulations upon simulations that feel like ghostly presences animating our otherwise soulless and recycled media objects.
 

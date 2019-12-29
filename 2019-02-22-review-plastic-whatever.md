@@ -2,9 +2,9 @@ Permalink: review-plastic-whatever
 
 # Review of PLASTIC WHATEVER
 
-_(Originally published in Private Suite magazine, [issue 5](https://privatesuitemag.com/issues/issue-5/))_
+_(Originally published in Private Suite magazine, [issue 5](https://privatesuitemag.com/issue/5/))_
 
-Album Review: [PLASTIC WHATEVER](https://neoncityrecords.bandcamp.com/album/plastic-whatever), by Desired (Neon City Records)
+Album Review: [PLASTIC WHATEVER](https://neoncityrecords.bandcamp.com/album/plastic-whatever) by Desired (Neon City Records)
 
 Desired's _PLASTIC WHATEVER_ is a meditation on the hyperkinetic but dispassionate life, a synthetic hodgepodge of lollipop hooks and frenetic drops precisely engineered to keep us moving, two steps ahead of a blunt and crushing reality.
 
