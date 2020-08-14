@@ -2,7 +2,7 @@ Permalink: plain-text-penchant
 
 # A plain text penchant
 
-[Scott Nesbitt](https://scottnesbitt.net/), proprietor of the excellent and indispensable _Plain Text Project_, has published [an interview with me](https://plaintextproject.online/2018/12/05/Behrenshausen.html). We discuss my writing and editing habits, my tool preferences, and my plain-by-default workflow.
+[Scott Nesbitt](https://scottnesbitt.net/), proprietor of the excellent and indispensable _Plain Text Project_, has published [an interview with me](https://plaintextproject.online/articles/2018/12/05/Behrenshausen.html). We discuss my writing and editing habits, my tool preferences, and my plain-by-default workflow.
 
 I'm aware of no other place on the web that would grant me such room to explain my plain-text writing penchant in crushing detail. But I'm sure glad it exists. And I'm glad Scott's running it.
 
