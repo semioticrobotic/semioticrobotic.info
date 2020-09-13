@@ -1,6 +1,6 @@
 Permalink: goodmorning-america
 
-# "Goodmorning America!" by 猫 シ Corp.
+# Review of "Goodmorning America!" by 猫 シ Corp.
 
 _(Originally published in [semioticrobotic.email](http://semioticrobotic.email)._
 
@@ -29,6 +29,4 @@ Vaporwave's development of an alternate social and historical context, a replace
 Vaporwave has a future. It always has. But does that future have a future?
 
 The trick will be not only dreaming the thing, but _releasing it._
-
-**Pairs well with:** An autographed portrait of Al Roker from your trip to New York City on September 10, 2001.
 
