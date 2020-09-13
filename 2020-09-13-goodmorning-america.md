@@ -2,7 +2,7 @@ Permalink: goodmorning-america
 
 # Review of "Goodmorning America!" by 猫 シ Corp.
 
-_(Originally published in [semioticrobotic.email](http://semioticrobotic.email))._
+_(Originally published at [semioticrobotic.email](http://semioticrobotic.email).)_
 
 > By exploding the world as we knew it, the September 11th attacks shocked us into a state of cultural regression. We have been living in that period ever since, plumbing the past for comforting sounds and songs, sounds from periphery and mundanity of daily life before the great unraveling at the start of this century.—Grafton Tanner, _Babbling Corpse_
 
