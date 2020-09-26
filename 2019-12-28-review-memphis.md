@@ -2,11 +2,9 @@ Permalink: review-memphis
 
 # Review of Memphis
 
-_(Originally published in Private Suite magazine, [issue 10](https://www.privatesuitemag.com/issue/10))_
+*(Originally published in Private Suite magazine, [issue 10](https://www.privatesuitemag.com/issue/10))*
 
-Album Review: [Memphis](https://trademarksandcopyrights.bandcamp.com/album/memphis) by Trademarks & Copyrights
-
-"Tell me that you'll always stay," begs a narrator in the opening track of this bittersweet tapestry. That pleading tone is incessant in *Memphis*, a poignant, six-track elegy to the end of summer from classic-style mainstay Trademarks & Copyrights. Fall means change, and for *Memphis*' besotted balladeers, two lovers blindsided by the onset of greyer days, that means encroaching ambiguity, doubt, and fear.
+"Tell me that you'll always stay," begs a narrator in the opening track of this bittersweet tapestry. That pleading tone is incessant in [*Memphis*](https://trademarksandcopyrights.bandcamp.com/album/memphis) by Trademarks & Copyrights, a poignant, six-track elegy to the end of summer from classic-style mainstay Trademarks & Copyrights. Fall means change, and for *Memphis*' besotted balladeers, two lovers blindsided by the onset of greyer days, that means encroaching ambiguity, doubt, and fear.
 
 Those days are growing shorter, their nights bitter, and the flings and dalliances so simple and effortless in sunnier times are suddenly much more complicated—and uncertain—than they seemed when the convertible's top was down. *Memphis* is a fretful album. Its lyrics are full of questions that were never really necessary by the poolside, never really salient through the saline: "Will you still be here tomorrow?" "Why can't we just get along?"
 
