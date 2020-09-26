@@ -1,4 +1,4 @@
-Permalink: review-of-the-void
+Permalink: review-the-void
 
 # Review of The Void
 

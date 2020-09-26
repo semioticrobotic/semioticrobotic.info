@@ -1,4 +1,4 @@
-Permalink: goodmorning-america
+Permalink: review-goodmorning-america
 
 # Review of "Goodmorning America!" by 猫 シ Corp.
 
